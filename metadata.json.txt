@@ -1,0 +1,9 @@
+{
+  "name": "USDT-TRC20",
+  "symbol": "USDT",
+  "description": "Tether USD on TRON blockchain",
+  "logo": "logo.png",
+  "website": "",
+  "telegram": "",
+  "twitter": ""
+}
